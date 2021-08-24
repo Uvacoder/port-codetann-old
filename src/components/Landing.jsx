@@ -13,7 +13,7 @@ export default function Landing() {
 
   const handleEmail = () => {
     var anchor = document.createElement("a");
-    anchor.href = "mailto: thetannerthomas@gmail.com";
+    anchor.href = "mailto: codetann@gmail.com";
     anchor.target = "_blank";
     anchor.click();
   };
